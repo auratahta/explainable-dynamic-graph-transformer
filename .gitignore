@@ -1,0 +1,27 @@
+# Clinical datasets
+data/
+
+# Exclude outputs until reviewed
+outputs/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+
+# Environment
+.env
+.venv/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
